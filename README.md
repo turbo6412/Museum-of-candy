@@ -2,4 +2,4 @@
 Created a basic HTML/CSS project to learn the fundamentals of styling a web page. 
 
 
-![alt text](https://imgur.com/mEqo0dG)
+https://imgur.com/mEqo0dG
